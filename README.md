@@ -1,2 +1,3 @@
-# schema
-Learn how to design a Database.
+# Indexing in NoSQL
+
+How does indexing work in NoSQL databases like ```MongoDB```?
